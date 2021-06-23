@@ -3,5 +3,5 @@ Given a dataset on the number of cases and deaths due to COVID-19, it's useful t
 
 Using the dataset : Continent and Country, Data, along with the day's cases and deaths and other important features like **"population density"** , **"diabetes prevelance"** , **"median age".**
 
-The laayers in the model are build from scratch using only Python libraries for better understanding the math behind concepts involved deep neural networks.
+The layers in the model are build from scratch using only Python libraries for better understanding the math behind concepts involved deep neural networks.
 Matplotlib and Pandas are used for Data Visualisation

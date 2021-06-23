@@ -8,3 +8,40 @@ Matplotlib and Pandas are used for Data Visualisation
 
 **Given below is the architecture of the model deployed in the multi - layer perceptron**
 ![Covid 19 Prediction](https://user-images.githubusercontent.com/63362412/123039521-efefcc00-d40f-11eb-9c78-b87f3004838a.PNG)
+
+# Technical Aspect
+
+## The project is divided in 2 parts
+### 1. Data Cleaning and Data Preprcossing
+#### (i) Data Cleaning
+ * Taking care of null Values in different ways depending on the feauture column
+ * Converting Dates to count of Days
+ * 
+#### (ii) Data Preprcoessing
+  * 
+  * Tokenization - Converting each input/output sentence into words based on info from the dictionaries
+  * 
+  * Normalization
+  * Standardization
+  
+ ### 2. Building Encoder-Decoder Model
+ #### * During Training
+  * Following are the function being implemented :
+    * Initialize Properties
+    * Parameters Initialization
+    * Net1 Forward Propogation
+    * Concatenation of other features + forward prop of Net1 = Net2
+    * Net2 Forward Propogation
+    * Decoder Forward Propogation
+    * Loss - Mean Square Error
+    * Net2 Backward Propogation
+    * Net1 Backward Propogation
+    * Gradient Descent
+
+### * During Testing
+  **Same steps as above, notable difference is prdiction for a given day is built on the prediction of all the prev days recursively while making prediction for next day**
+ ### 3. Activation Functions :
+     * Net1 to Net2 - Linear
+     * Hidden Layers - ReLu
+     * Output Layer - Linear
+

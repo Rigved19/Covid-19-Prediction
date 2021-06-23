@@ -5,3 +5,6 @@ Using the dataset : Continent and Country, Data, along with the day's cases and 
 
 The layers in the model are build from scratch using only Python libraries for better understanding the math behind concepts involved deep neural networks.
 Matplotlib and Pandas are used for Data Visualisation
+
+**Given below is the architecture of the model deployed in the multi - layer perceptron**
+![Covid 19 Prediction](https://user-images.githubusercontent.com/63362412/123039521-efefcc00-d40f-11eb-9c78-b87f3004838a.PNG)

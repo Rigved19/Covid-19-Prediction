@@ -36,7 +36,7 @@ Matplotlib and Pandas are used for Data Visualisation
     * Net1 Backward Propogation
     * Gradient Descent
 
-### * During Testing
+#### * During Testing
    **Same steps as above, notable difference is prdiction for a given day is built on the prediction of all the prev days recursively while making prediction for next day**
  ### 3. Activation Functions :
      * Net1 to Net2 - Linear

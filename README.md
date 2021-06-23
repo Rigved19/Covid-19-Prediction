@@ -24,7 +24,7 @@ Matplotlib and Pandas are used for Data Visualisation
   * Sorting
   
  ### 2. Building Encoder-Decoder Model
- #### * During Training
+#### * During Training
   * Following are the function being implemented :
     * Initialize Properties
     * Parameters Initialization
@@ -38,7 +38,7 @@ Matplotlib and Pandas are used for Data Visualisation
     * Gradient Descent
 
 ### * During Testing
-  **Same steps as above, notable difference is prdiction for a given day is built on the prediction of all the prev days recursively while making prediction for next day**
+    **Same steps as above, notable difference is prdiction for a given day is built on the prediction of all the prev days recursively while making prediction for next day**
  ### 3. Activation Functions :
      * Net1 to Net2 - Linear
      * Hidden Layers - ReLu

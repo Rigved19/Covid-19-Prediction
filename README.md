@@ -22,7 +22,7 @@ Matplotlib and Pandas are used for Data Visualisation
   * Standardization
   * Sorting
   
- ### 2. Building Encoder-Decoder Model
+ ### 2. Multi - Layer Perceptron
 #### * During Training
   * Following are the function being implemented :
     * Initialize Properties

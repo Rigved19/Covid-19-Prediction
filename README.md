@@ -15,8 +15,7 @@ Matplotlib and Pandas are used for Data Visualisation
 ### 1. Data Cleaning and Data Preprcossing
 #### (i) Data Cleaning
  * Taking care of null Values in different ways depending on the feauture column
- * Converting Dates to count of Days
- * 
+ * Converting Dates to count of Days 
 #### (ii) Data Preprcoessing and Feature Scaling
   * Label and Target Encoding
   * Normalization
@@ -38,7 +37,7 @@ Matplotlib and Pandas are used for Data Visualisation
     * Gradient Descent
 
 ### * During Testing
-    **Same steps as above, notable difference is prdiction for a given day is built on the prediction of all the prev days recursively while making prediction for next day**
+   **Same steps as above, notable difference is prdiction for a given day is built on the prediction of all the prev days recursively while making prediction for next day**
  ### 3. Activation Functions :
      * Net1 to Net2 - Linear
      * Hidden Layers - ReLu

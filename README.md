@@ -17,12 +17,11 @@ Matplotlib and Pandas are used for Data Visualisation
  * Taking care of null Values in different ways depending on the feauture column
  * Converting Dates to count of Days
  * 
-#### (ii) Data Preprcoessing
-  * 
-  * Tokenization - Converting each input/output sentence into words based on info from the dictionaries
-  * 
+#### (ii) Data Preprcoessing and Feature Scaling
+  * Label and Target Encoding
   * Normalization
   * Standardization
+  * Sorting
   
  ### 2. Building Encoder-Decoder Model
  #### * During Training

@@ -30,7 +30,6 @@ Matplotlib and Pandas are used for Data Visualisation
     * Net1 Forward Propogation
     * Concatenation of other features + forward prop of Net1 = Net2
     * Net2 Forward Propogation
-    * Decoder Forward Propogation
     * Loss - Mean Square Error
     * Net2 Backward Propogation
     * Net1 Backward Propogation
